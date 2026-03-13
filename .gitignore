@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__/
+venv/
+*.pyc
+.ipynb_checkpoints/
+outputs/plots/
+outputs/texts/
+node_modules/
+.env

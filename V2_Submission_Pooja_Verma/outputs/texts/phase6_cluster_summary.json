@@ -1,0 +1,19 @@
+{
+  "n_clusters": 4,
+  "archetypes": {
+    "0": "Speed Typist (fast, rollover)",
+    "1": "Steady Typist (moderate, consistent)",
+    "2": "Variable Typist (moderate, varied rhythm)",
+    "3": "Variable Typist (moderate, varied rhythm)"
+  },
+  "pca_variance_explained": [
+    0.4841065841838723,
+    0.2829955030679448
+  ],
+  "cluster_sizes": {
+    "0": 22,
+    "1": 45,
+    "2": 4,
+    "3": 28
+  }
+}

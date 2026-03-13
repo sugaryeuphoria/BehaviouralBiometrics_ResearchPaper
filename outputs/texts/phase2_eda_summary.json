@@ -1,0 +1,37 @@
+{
+  "total_clean_rows": 559485,
+  "alpha_space_rows": 508229,
+  "key_type_distribution": {
+    "alpha": 398958,
+    "space": 93612,
+    "backspace": 37257,
+    "punctuation": 15659,
+    "modifier": 8837,
+    "lock": 4081,
+    "arrow": 457,
+    "digit": 272,
+    "enter": 180,
+    "special": 166,
+    "function": 3,
+    "tab": 3
+  },
+  "word_boundary_analysis": {
+    "within_word_dd_median": 0.157,
+    "before_space_dd_median": 0.155,
+    "after_space_dd_median": 0.241
+  },
+  "overlap_ratio": 17.768368196226504,
+  "session_comparison": {
+    "session1_dd_median": 0.172,
+    "session2_dd_median": 0.175
+  },
+  "key_findings": [
+    "Hold time is right-skewed with median 91ms - log-normal or gamma likely fits well",
+    "DD flight time shows bimodal tendency - within-word vs word-boundary transitions differ significantly",
+    "17.2% of keystrokes show rollover typing (negative UD) - critical for realism",
+    "Participants vary hugely in speed - need to model per-profile variance",
+    "Strong word-boundary effect on timing - Space transitions are slower",
+    "Session 1 vs 2 very similar - typing patterns are consistent",
+    "Lag-1 autocorrelation of 0.062 - moderate rhythm persistence"
+  ]
+}

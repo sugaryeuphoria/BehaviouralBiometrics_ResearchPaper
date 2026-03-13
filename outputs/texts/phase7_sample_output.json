@@ -1,0 +1,1031 @@
+{
+  "input_text": "The quick brown fox jumps over the lazy dog. This is a test of the human keystroke simulation engine.",
+  "speed_profile": "medium",
+  "keystrokes": [
+    {
+      "char": "T",
+      "key": "T",
+      "key_down": 0.0,
+      "key_up": 0.0861,
+      "hold_time": 0.0861,
+      "dd_time": 0.0,
+      "elapsed": 0.0,
+      "context": "word_start"
+    },
+    {
+      "char": "h",
+      "key": "h",
+      "key_down": 0.0669,
+      "key_up": 0.0869,
+      "hold_time": 0.02,
+      "dd_time": 0.0669,
+      "elapsed": 0.0669,
+      "context": "mid_word"
+    },
+    {
+      "char": "e",
+      "key": "e",
+      "key_down": 0.154,
+      "key_up": 0.2132,
+      "hold_time": 0.0592,
+      "dd_time": 0.0871,
+      "elapsed": 0.154,
+      "context": "mid_word"
+    },
+    {
+      "char": " ",
+      "key": "Space",
+      "key_down": 0.2222,
+      "key_up": 0.3102,
+      "hold_time": 0.088,
+      "dd_time": 0.0682,
+      "elapsed": 0.2222,
+      "context": "word_end"
+    },
+    {
+      "char": "q",
+      "key": "q",
+      "key_down": 0.3762,
+      "key_up": 0.5393,
+      "hold_time": 0.1631,
+      "dd_time": 0.154,
+      "elapsed": 0.3762,
+      "context": "word_start"
+    },
+    {
+      "char": "u",
+      "key": "u",
+      "key_down": 0.6195,
+      "key_up": 0.7588,
+      "hold_time": 0.1393,
+      "dd_time": 0.2433,
+      "elapsed": 0.6195,
+      "context": "mid_word"
+    },
+    {
+      "char": "i",
+      "key": "i",
+      "key_down": 0.8167,
+      "key_up": 0.8899,
+      "hold_time": 0.0733,
+      "dd_time": 0.1972,
+      "elapsed": 0.8167,
+      "context": "mid_word"
+    },
+    {
+      "char": "c",
+      "key": "c",
+      "key_down": 0.9744,
+      "key_up": 0.9944,
+      "hold_time": 0.02,
+      "dd_time": 0.1577,
+      "elapsed": 0.9744,
+      "context": "mid_word"
+    },
+    {
+      "char": "k",
+      "key": "k",
+      "key_down": 1.1638,
+      "key_up": 1.1923,
+      "hold_time": 0.0285,
+      "dd_time": 0.1894,
+      "elapsed": 1.1638,
+      "context": "mid_word"
+    },
+    {
+      "char": " ",
+      "key": "Space",
+      "key_down": 1.3221,
+      "key_up": 1.392,
+      "hold_time": 0.0699,
+      "dd_time": 0.1583,
+      "elapsed": 1.3221,
+      "context": "word_end"
+    },
+    {
+      "char": "b",
+      "key": "b",
+      "key_down": 1.4424,
+      "key_up": 1.5101,
+      "hold_time": 0.0677,
+      "dd_time": 0.1203,
+      "elapsed": 1.4424,
+      "context": "word_start"
+    },
+    {
+      "char": "r",
+      "key": "r",
+      "key_down": 1.6062,
+      "key_up": 1.6262,
+      "hold_time": 0.02,
+      "dd_time": 0.1638,
+      "elapsed": 1.6062,
+      "context": "mid_word"
+    },
+    {
+      "char": "o",
+      "key": "o",
+      "key_down": 1.6718,
+      "key_up": 1.6918,
+      "hold_time": 0.02,
+      "dd_time": 0.0656,
+      "elapsed": 1.6718,
+      "context": "mid_word"
+    },
+    {
+      "char": "w",
+      "key": "w",
+      "key_down": 1.8494,
+      "key_up": 2.1788,
+      "hold_time": 0.3294,
+      "dd_time": 0.1775,
+      "elapsed": 1.8494,
+      "context": "mid_word"
+    },
+    {
+      "char": "n",
+      "key": "n",
+      "key_down": 1.9633,
+      "key_up": 1.9833,
+      "hold_time": 0.02,
+      "dd_time": 0.114,
+      "elapsed": 1.9633,
+      "context": "mid_word"
+    },
+    {
+      "char": " ",
+      "key": "Space",
+      "key_down": 2.0275,
+      "key_up": 2.0959,
+      "hold_time": 0.0685,
+      "dd_time": 0.0642,
+      "elapsed": 2.0275,
+      "context": "word_end"
+    },
+    {
+      "char": "f",
+      "key": "f",
+      "key_down": 2.0757,
+      "key_up": 2.1514,
+      "hold_time": 0.0757,
+      "dd_time": 0.0482,
+      "elapsed": 2.0757,
+      "context": "word_start"
+    },
+    {
+      "char": "o",
+      "key": "o",
+      "key_down": 2.2672,
+      "key_up": 2.3644,
+      "hold_time": 0.0972,
+      "dd_time": 0.1915,
+      "elapsed": 2.2672,
+      "context": "mid_word"
+    },
+    {
+      "char": "x",
+      "key": "x",
+      "key_down": 2.4567,
+      "key_up": 2.5886,
+      "hold_time": 0.1319,
+      "dd_time": 0.1896,
+      "elapsed": 2.4567,
+      "context": "mid_word"
+    },
+    {
+      "char": " ",
+      "key": "Space",
+      "key_down": 2.6218,
+      "key_up": 2.6736,
+      "hold_time": 0.0518,
+      "dd_time": 0.165,
+      "elapsed": 2.6218,
+      "context": "word_end"
+    },
+    {
+      "char": "j",
+      "key": "j",
+      "key_down": 2.8049,
+      "key_up": 2.89,
+      "hold_time": 0.0852,
+      "dd_time": 0.1831,
+      "elapsed": 2.8049,
+      "context": "word_start"
+    },
+    {
+      "char": "u",
+      "key": "u",
+      "key_down": 2.9331,
+      "key_up": 3.0052,
+      "hold_time": 0.0722,
+      "dd_time": 0.1282,
+      "elapsed": 2.9331,
+      "context": "mid_word"
+    },
+    {
+      "char": "m",
+      "key": "m",
+      "key_down": 3.1121,
+      "key_up": 3.1834,
+      "hold_time": 0.0713,
+      "dd_time": 0.179,
+      "elapsed": 3.1121,
+      "context": "mid_word"
+    },
+    {
+      "char": "p",
+      "key": "p",
+      "key_down": 3.279,
+      "key_up": 3.3519,
+      "hold_time": 0.073,
+      "dd_time": 0.1669,
+      "elapsed": 3.279,
+      "context": "mid_word"
+    },
+    {
+      "char": "s",
+      "key": "s",
+      "key_down": 3.3997,
+      "key_up": 3.4197,
+      "hold_time": 0.02,
+      "dd_time": 0.1207,
+      "elapsed": 3.3997,
+      "context": "mid_word"
+    },
+    {
+      "char": " ",
+      "key": "Space",
+      "key_down": 3.7201,
+      "key_up": 3.7897,
+      "hold_time": 0.0696,
+      "dd_time": 0.3205,
+      "elapsed": 3.7201,
+      "context": "word_end"
+    },
+    {
+      "char": "o",
+      "key": "o",
+      "key_down": 3.9568,
+      "key_up": 3.9768,
+      "hold_time": 0.02,
+      "dd_time": 0.2367,
+      "elapsed": 3.9568,
+      "context": "word_start"
+    },
+    {
+      "char": "v",
+      "key": "v",
+      "key_down": 4.0946,
+      "key_up": 4.1798,
+      "hold_time": 0.0851,
+      "dd_time": 0.1378,
+      "elapsed": 4.0946,
+      "context": "mid_word"
+    },
+    {
+      "char": "e",
+      "key": "e",
+      "key_down": 4.2241,
+      "key_up": 4.5844,
+      "hold_time": 0.3602,
+      "dd_time": 0.1295,
+      "elapsed": 4.2241,
+      "context": "mid_word"
+    },
+    {
+      "char": "r",
+      "key": "r",
+      "key_down": 4.4699,
+      "key_up": 4.4899,
+      "hold_time": 0.02,
+      "dd_time": 0.2458,
+      "elapsed": 4.4699,
+      "context": "mid_word"
+    },
+    {
+      "char": " ",
+      "key": "Space",
+      "key_down": 4.6365,
+      "key_up": 4.6972,
+      "hold_time": 0.0607,
+      "dd_time": 0.1666,
+      "elapsed": 4.6365,
+      "context": "word_end"
+    },
+    {
+      "char": "t",
+      "key": "t",
+      "key_down": 4.7086,
+      "key_up": 4.766,
+      "hold_time": 0.0574,
+      "dd_time": 0.0721,
+      "elapsed": 4.7086,
+      "context": "word_start"
+    },
+    {
+      "char": "h",
+      "key": "h",
+      "key_down": 4.9562,
+      "key_up": 4.9762,
+      "hold_time": 0.02,
+      "dd_time": 0.2476,
+      "elapsed": 4.9562,
+      "context": "mid_word"
+    },
+    {
+      "char": "e",
+      "key": "e",
+      "key_down": 5.0968,
+      "key_up": 5.2166,
+      "hold_time": 0.1198,
+      "dd_time": 0.1406,
+      "elapsed": 5.0968,
+      "context": "mid_word"
+    },
+    {
+      "char": " ",
+      "key": "Space",
+      "key_down": 5.1806,
+      "key_up": 5.2659,
+      "hold_time": 0.0853,
+      "dd_time": 0.0838,
+      "elapsed": 5.1806,
+      "context": "word_end"
+    },
+    {
+      "char": "l",
+      "key": "l",
+      "key_down": 5.2783,
+      "key_up": 5.3664,
+      "hold_time": 0.0881,
+      "dd_time": 0.0977,
+      "elapsed": 5.2783,
+      "context": "word_start"
+    },
+    {
+      "char": "a",
+      "key": "a",
+      "key_down": 5.4988,
+      "key_up": 5.5596,
+      "hold_time": 0.0608,
+      "dd_time": 0.2206,
+      "elapsed": 5.4988,
+      "context": "mid_word"
+    },
+    {
+      "char": "z",
+      "key": "z",
+      "key_down": 5.7092,
+      "key_up": 5.8054,
+      "hold_time": 0.0962,
+      "dd_time": 0.2103,
+      "elapsed": 5.7092,
+      "context": "mid_word"
+    },
+    {
+      "char": "y",
+      "key": "y",
+      "key_down": 5.934,
+      "key_up": 6.2074,
+      "hold_time": 0.2735,
+      "dd_time": 0.2248,
+      "elapsed": 5.934,
+      "context": "mid_word"
+    },
+    {
+      "char": " ",
+      "key": "Space",
+      "key_down": 6.7437,
+      "key_up": 6.8103,
+      "hold_time": 0.0666,
+      "dd_time": 0.8097,
+      "elapsed": 6.7437,
+      "context": "word_end"
+    },
+    {
+      "char": "d",
+      "key": "d",
+      "key_down": 7.0744,
+      "key_up": 7.0944,
+      "hold_time": 0.02,
+      "dd_time": 0.3307,
+      "elapsed": 7.0744,
+      "context": "word_start"
+    },
+    {
+      "char": "o",
+      "key": "o",
+      "key_down": 7.3201,
+      "key_up": 7.3401,
+      "hold_time": 0.02,
+      "dd_time": 0.2457,
+      "elapsed": 7.3201,
+      "context": "mid_word"
+    },
+    {
+      "char": "g",
+      "key": "g",
+      "key_down": 7.4781,
+      "key_up": 7.559,
+      "hold_time": 0.0809,
+      "dd_time": 0.158,
+      "elapsed": 7.4781,
+      "context": "mid_word"
+    },
+    {
+      "char": ".",
+      "key": ".",
+      "key_down": 7.6441,
+      "key_up": 7.6931,
+      "hold_time": 0.049,
+      "dd_time": 0.1661,
+      "elapsed": 7.6441,
+      "context": "mid_word"
+    },
+    {
+      "char": " ",
+      "key": "Space",
+      "key_down": 8.2255,
+      "key_up": 8.2841,
+      "hold_time": 0.0586,
+      "dd_time": 0.5814,
+      "elapsed": 8.2255,
+      "context": "word_end"
+    },
+    {
+      "char": "T",
+      "key": "T",
+      "key_down": 8.4215,
+      "key_up": 8.48,
+      "hold_time": 0.0585,
+      "dd_time": 0.196,
+      "elapsed": 8.4215,
+      "context": "word_start"
+    },
+    {
+      "char": "h",
+      "key": "h",
+      "key_down": 8.6394,
+      "key_up": 8.6594,
+      "hold_time": 0.02,
+      "dd_time": 0.2178,
+      "elapsed": 8.6394,
+      "context": "mid_word"
+    },
+    {
+      "char": "i",
+      "key": "i",
+      "key_down": 8.8875,
+      "key_up": 8.9182,
+      "hold_time": 0.0307,
+      "dd_time": 0.2481,
+      "elapsed": 8.8875,
+      "context": "mid_word"
+    },
+    {
+      "char": "s",
+      "key": "s",
+      "key_down": 8.9759,
+      "key_up": 9.1046,
+      "hold_time": 0.1287,
+      "dd_time": 0.0884,
+      "elapsed": 8.9759,
+      "context": "mid_word"
+    },
+    {
+      "char": " ",
+      "key": "Space",
+      "key_down": 9.5383,
+      "key_up": 9.5922,
+      "hold_time": 0.0539,
+      "dd_time": 0.5624,
+      "elapsed": 9.5383,
+      "context": "word_end"
+    },
+    {
+      "char": "i",
+      "key": "i",
+      "key_down": 9.959,
+      "key_up": 9.9996,
+      "hold_time": 0.0406,
+      "dd_time": 0.4207,
+      "elapsed": 9.959,
+      "context": "word_start"
+    },
+    {
+      "char": "s",
+      "key": "s",
+      "key_down": 10.0993,
+      "key_up": 10.1454,
+      "hold_time": 0.0461,
+      "dd_time": 0.1403,
+      "elapsed": 10.0993,
+      "context": "mid_word"
+    },
+    {
+      "char": " ",
+      "key": "Space",
+      "key_down": 10.3738,
+      "key_up": 10.4292,
+      "hold_time": 0.0555,
+      "dd_time": 0.2745,
+      "elapsed": 10.3738,
+      "context": "word_end"
+    },
+    {
+      "char": "a",
+      "key": "a",
+      "key_down": 10.5428,
+      "key_up": 10.6885,
+      "hold_time": 0.1457,
+      "dd_time": 0.169,
+      "elapsed": 10.5428,
+      "context": "word_start"
+    },
+    {
+      "char": " ",
+      "key": "Space",
+      "key_down": 10.7135,
+      "key_up": 10.8003,
+      "hold_time": 0.0868,
+      "dd_time": 0.1707,
+      "elapsed": 10.7135,
+      "context": "word_end"
+    },
+    {
+      "char": "t",
+      "key": "t",
+      "key_down": 11.148,
+      "key_up": 11.2101,
+      "hold_time": 0.0621,
+      "dd_time": 0.4345,
+      "elapsed": 11.148,
+      "context": "word_start"
+    },
+    {
+      "char": "e",
+      "key": "e",
+      "key_down": 11.485,
+      "key_up": 11.5896,
+      "hold_time": 0.1046,
+      "dd_time": 0.337,
+      "elapsed": 11.485,
+      "context": "mid_word"
+    },
+    {
+      "char": "s",
+      "key": "s",
+      "key_down": 12.3305,
+      "key_up": 12.3505,
+      "hold_time": 0.02,
+      "dd_time": 0.8455,
+      "elapsed": 12.3305,
+      "context": "mid_word"
+    },
+    {
+      "char": "t",
+      "key": "t",
+      "key_down": 12.8663,
+      "key_up": 12.9578,
+      "hold_time": 0.0915,
+      "dd_time": 0.5359,
+      "elapsed": 12.8663,
+      "context": "mid_word"
+    },
+    {
+      "char": " ",
+      "key": "Space",
+      "key_down": 13.1363,
+      "key_up": 13.2292,
+      "hold_time": 0.0929,
+      "dd_time": 0.27,
+      "elapsed": 13.1363,
+      "context": "word_end"
+    },
+    {
+      "char": "o",
+      "key": "o",
+      "key_down": 13.9319,
+      "key_up": 14.3319,
+      "hold_time": 0.4,
+      "dd_time": 0.7956,
+      "elapsed": 13.9319,
+      "context": "word_start"
+    },
+    {
+      "char": "f",
+      "key": "f",
+      "key_down": 14.2896,
+      "key_up": 14.4182,
+      "hold_time": 0.1285,
+      "dd_time": 0.3577,
+      "elapsed": 14.2896,
+      "context": "mid_word"
+    },
+    {
+      "char": " ",
+      "key": "Space",
+      "key_down": 14.5683,
+      "key_up": 14.6408,
+      "hold_time": 0.0724,
+      "dd_time": 0.2787,
+      "elapsed": 14.5683,
+      "context": "word_end"
+    },
+    {
+      "char": "t",
+      "key": "t",
+      "key_down": 15.8916,
+      "key_up": 15.9626,
+      "hold_time": 0.0709,
+      "dd_time": 1.3233,
+      "elapsed": 15.8916,
+      "context": "word_start"
+    },
+    {
+      "char": "h",
+      "key": "h",
+      "key_down": 16.3027,
+      "key_up": 16.3227,
+      "hold_time": 0.02,
+      "dd_time": 0.4111,
+      "elapsed": 16.3027,
+      "context": "mid_word"
+    },
+    {
+      "char": "e",
+      "key": "e",
+      "key_down": 16.4854,
+      "key_up": 16.5247,
+      "hold_time": 0.0393,
+      "dd_time": 0.1827,
+      "elapsed": 16.4854,
+      "context": "mid_word"
+    },
+    {
+      "char": " ",
+      "key": "Space",
+      "key_down": 16.5888,
+      "key_up": 16.6475,
+      "hold_time": 0.0587,
+      "dd_time": 0.1034,
+      "elapsed": 16.5888,
+      "context": "word_end"
+    },
+    {
+      "char": "h",
+      "key": "h",
+      "key_down": 16.6989,
+      "key_up": 17.0989,
+      "hold_time": 0.4,
+      "dd_time": 0.1101,
+      "elapsed": 16.6989,
+      "context": "word_start"
+    },
+    {
+      "char": "u",
+      "key": "u",
+      "key_down": 16.9226,
+      "key_up": 17.0205,
+      "hold_time": 0.0979,
+      "dd_time": 0.2237,
+      "elapsed": 16.9226,
+      "context": "mid_word"
+    },
+    {
+      "char": "m",
+      "key": "m",
+      "key_down": 17.1364,
+      "key_up": 17.2213,
+      "hold_time": 0.0849,
+      "dd_time": 0.2138,
+      "elapsed": 17.1364,
+      "context": "mid_word"
+    },
+    {
+      "char": "a",
+      "key": "a",
+      "key_down": 17.4067,
+      "key_up": 17.5282,
+      "hold_time": 0.1215,
+      "dd_time": 0.2703,
+      "elapsed": 17.4067,
+      "context": "mid_word"
+    },
+    {
+      "char": "n",
+      "key": "n",
+      "key_down": 17.6576,
+      "key_up": 17.6776,
+      "hold_time": 0.02,
+      "dd_time": 0.2509,
+      "elapsed": 17.6576,
+      "context": "mid_word"
+    },
+    {
+      "char": " ",
+      "key": "Space",
+      "key_down": 17.8543,
+      "key_up": 17.904,
+      "hold_time": 0.0497,
+      "dd_time": 0.1967,
+      "elapsed": 17.8543,
+      "context": "word_end"
+    },
+    {
+      "char": "k",
+      "key": "k",
+      "key_down": 18.2179,
+      "key_up": 18.3206,
+      "hold_time": 0.1027,
+      "dd_time": 0.3636,
+      "elapsed": 18.2179,
+      "context": "word_start"
+    },
+    {
+      "char": "e",
+      "key": "e",
+      "key_down": 18.4596,
+      "key_up": 18.4796,
+      "hold_time": 0.02,
+      "dd_time": 0.2418,
+      "elapsed": 18.4596,
+      "context": "mid_word"
+    },
+    {
+      "char": "y",
+      "key": "y",
+      "key_down": 18.6044,
+      "key_up": 18.6244,
+      "hold_time": 0.02,
+      "dd_time": 0.1447,
+      "elapsed": 18.6044,
+      "context": "mid_word"
+    },
+    {
+      "char": "s",
+      "key": "s",
+      "key_down": 18.7288,
+      "key_up": 18.7488,
+      "hold_time": 0.02,
+      "dd_time": 0.1244,
+      "elapsed": 18.7288,
+      "context": "mid_word"
+    },
+    {
+      "char": "t",
+      "key": "t",
+      "key_down": 18.8647,
+      "key_up": 18.9226,
+      "hold_time": 0.0579,
+      "dd_time": 0.1359,
+      "elapsed": 18.8647,
+      "context": "mid_word"
+    },
+    {
+      "char": "r",
+      "key": "r",
+      "key_down": 19.1485,
+      "key_up": 19.1685,
+      "hold_time": 0.02,
+      "dd_time": 0.2838,
+      "elapsed": 19.1485,
+      "context": "mid_word"
+    },
+    {
+      "char": "o",
+      "key": "o",
+      "key_down": 19.2503,
+      "key_up": 19.3329,
+      "hold_time": 0.0826,
+      "dd_time": 0.1018,
+      "elapsed": 19.2503,
+      "context": "mid_word"
+    },
+    {
+      "char": "k",
+      "key": "k",
+      "key_down": 19.3564,
+      "key_up": 19.4325,
+      "hold_time": 0.0761,
+      "dd_time": 0.106,
+      "elapsed": 19.3564,
+      "context": "mid_word"
+    },
+    {
+      "char": "e",
+      "key": "e",
+      "key_down": 19.4684,
+      "key_up": 19.5436,
+      "hold_time": 0.0752,
+      "dd_time": 0.1121,
+      "elapsed": 19.4684,
+      "context": "mid_word"
+    },
+    {
+      "char": " ",
+      "key": "Space",
+      "key_down": 19.5735,
+      "key_up": 19.6295,
+      "hold_time": 0.056,
+      "dd_time": 0.1051,
+      "elapsed": 19.5735,
+      "context": "word_end"
+    },
+    {
+      "char": "s",
+      "key": "s",
+      "key_down": 19.6847,
+      "key_up": 19.7047,
+      "hold_time": 0.02,
+      "dd_time": 0.1112,
+      "elapsed": 19.6847,
+      "context": "word_start"
+    },
+    {
+      "char": "i",
+      "key": "i",
+      "key_down": 19.9536,
+      "key_up": 20.239,
+      "hold_time": 0.2854,
+      "dd_time": 0.2688,
+      "elapsed": 19.9536,
+      "context": "mid_word"
+    },
+    {
+      "char": "m",
+      "key": "m",
+      "key_down": 20.1721,
+      "key_up": 20.2547,
+      "hold_time": 0.0826,
+      "dd_time": 0.2185,
+      "elapsed": 20.1721,
+      "context": "mid_word"
+    },
+    {
+      "char": "u",
+      "key": "u",
+      "key_down": 20.3491,
+      "key_up": 20.4178,
+      "hold_time": 0.0688,
+      "dd_time": 0.177,
+      "elapsed": 20.3491,
+      "context": "mid_word"
+    },
+    {
+      "char": "l",
+      "key": "l",
+      "key_down": 20.5726,
+      "key_up": 20.6073,
+      "hold_time": 0.0346,
+      "dd_time": 0.2235,
+      "elapsed": 20.5726,
+      "context": "mid_word"
+    },
+    {
+      "char": "a",
+      "key": "a",
+      "key_down": 20.8146,
+      "key_up": 20.8627,
+      "hold_time": 0.048,
+      "dd_time": 0.242,
+      "elapsed": 20.8146,
+      "context": "mid_word"
+    },
+    {
+      "char": "t",
+      "key": "t",
+      "key_down": 20.9022,
+      "key_up": 20.9777,
+      "hold_time": 0.0755,
+      "dd_time": 0.0875,
+      "elapsed": 20.9022,
+      "context": "mid_word"
+    },
+    {
+      "char": "i",
+      "key": "i",
+      "key_down": 21.138,
+      "key_up": 21.1994,
+      "hold_time": 0.0614,
+      "dd_time": 0.2358,
+      "elapsed": 21.138,
+      "context": "mid_word"
+    },
+    {
+      "char": "o",
+      "key": "o",
+      "key_down": 21.3426,
+      "key_up": 21.37,
+      "hold_time": 0.0274,
+      "dd_time": 0.2046,
+      "elapsed": 21.3426,
+      "context": "mid_word"
+    },
+    {
+      "char": "n",
+      "key": "n",
+      "key_down": 22.8982,
+      "key_up": 22.9182,
+      "hold_time": 0.02,
+      "dd_time": 1.5556,
+      "elapsed": 22.8982,
+      "context": "mid_word"
+    },
+    {
+      "char": " ",
+      "key": "Space",
+      "key_down": 23.4202,
+      "key_up": 23.5007,
+      "hold_time": 0.0804,
+      "dd_time": 0.522,
+      "elapsed": 23.4202,
+      "context": "word_end"
+    },
+    {
+      "char": "e",
+      "key": "e",
+      "key_down": 23.6981,
+      "key_up": 23.7181,
+      "hold_time": 0.02,
+      "dd_time": 0.2779,
+      "elapsed": 23.6981,
+      "context": "word_start"
+    },
+    {
+      "char": "n",
+      "key": "n",
+      "key_down": 23.867,
+      "key_up": 23.8912,
+      "hold_time": 0.0242,
+      "dd_time": 0.1689,
+      "elapsed": 23.867,
+      "context": "mid_word"
+    },
+    {
+      "char": "g",
+      "key": "g",
+      "key_down": 24.3447,
+      "key_up": 24.4078,
+      "hold_time": 0.0631,
+      "dd_time": 0.4776,
+      "elapsed": 24.3447,
+      "context": "mid_word"
+    },
+    {
+      "char": "i",
+      "key": "i",
+      "key_down": 24.6354,
+      "key_up": 24.721,
+      "hold_time": 0.0856,
+      "dd_time": 0.2907,
+      "elapsed": 24.6354,
+      "context": "mid_word"
+    },
+    {
+      "char": "n",
+      "key": "n",
+      "key_down": 26.2168,
+      "key_up": 26.2368,
+      "hold_time": 0.02,
+      "dd_time": 1.5815,
+      "elapsed": 26.2168,
+      "context": "mid_word"
+    },
+    {
+      "char": "e",
+      "key": "e",
+      "key_down": 26.8548,
+      "key_up": 26.8835,
+      "hold_time": 0.0287,
+      "dd_time": 0.638,
+      "elapsed": 26.8548,
+      "context": "mid_word"
+    },
+    {
+      "char": ".",
+      "key": ".",
+      "key_down": 27.2287,
+      "key_up": 27.6287,
+      "hold_time": 0.4,
+      "dd_time": 0.3739,
+      "elapsed": 27.2287,
+      "context": "mid_word"
+    }
+  ],
+  "metrics": {
+    "total_time_s": 27.63,
+    "characters": 101,
+    "words": 19,
+    "wpm": 41.3,
+    "cpm": 219.3,
+    "avg_dd_ms": 272.3,
+    "median_dd_ms": 196.4,
+    "std_dd_ms": 265.5,
+    "avg_hold_ms": 81.6,
+    "median_hold_ms": 66.6,
+    "std_hold_ms": 81.4,
+    "min_dd_ms": 48.2,
+    "max_dd_ms": 1581.5
+  }
+}

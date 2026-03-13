@@ -1,0 +1,1 @@
+["dd_mean", "dd_std", "dd_median", "dd_iqr", "dd_min", "dd_max", "dd_range", "dd_skew", "hold_mean", "hold_std", "hold_median", "ud_mean", "ud_std", "ud_neg_ratio", "uu_mean", "uu_std", "hold_to_dd_ratio", "cv_dd", "cv_hold"]

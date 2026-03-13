@@ -1,0 +1,32 @@
+{
+  "Random Forest": {
+    "simulation": {
+      "classified_as_human": 0.5633802816901409,
+      "avg_human_probability": 0.544131455399061
+    },
+    "naive_synthetic": {
+      "classified_as_human": 0.0,
+      "avg_human_probability": 0.14215962441314556
+    }
+  },
+  "Gradient Boosting": {
+    "simulation": {
+      "classified_as_human": 0.2347417840375587,
+      "avg_human_probability": 0.3777274586046925
+    },
+    "naive_synthetic": {
+      "classified_as_human": 0.004694835680751174,
+      "avg_human_probability": 0.17919860716139097
+    }
+  },
+  "AdaBoost": {
+    "simulation": {
+      "classified_as_human": 0.8262910798122066,
+      "avg_human_probability": 0.5145031073600178
+    },
+    "naive_synthetic": {
+      "classified_as_human": 1.0,
+      "avg_human_probability": 0.5212393968137858
+    }
+  }
+}

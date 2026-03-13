@@ -1,0 +1,4 @@
+Model,Accuracy,F1 Score,AUC-ROC,CV F1 (mean±std)
+Random Forest,0.9996,0.9996,1.0000,0.9995±0.0007
+Gradient Boosting,0.9999,0.9999,1.0000,0.9997±0.0002
+AdaBoost,0.9989,0.9989,1.0000,0.9955±0.0033
